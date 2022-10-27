@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    width: 700px;
+    height: 500px;
+    margin-left: 600px;
+    margin-top: 200px;
+}
+
+.ph__card {
+    width: 700px;
+    height: 500px;
+}
+
+.text_grow {
+    margin-right: 500px;
+}
+
+.card_text {
+    -webkit-box-shadow: 1px 21px 30px 14px rgba(34, 60, 80, 0.11);
+    -moz-box-shadow: 1px 21px 30px 14px rgba(34, 60, 80, 0.11);
+    box-shadow: 1px 21px 30px 14px rgba(34, 60, 80, 0.11);
+}
+
+.bu {
+    padding: 3px 300px;
+    margin: 5px 28px;
+    background-color: white;
+
+}
